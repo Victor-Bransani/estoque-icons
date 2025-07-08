@@ -1,0 +1,20 @@
+{
+    "name": "Controle de Estoque",
+    "short_name": "Estoque",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#f2f2f7",
+    "theme_color": "#007aff",
+    "icons": [
+      {
+        "src": "https://drive.google.com/uc?export=view&id=1KAX5f0Rfbxp9STpy7pbYD9xnCsnECEK1",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "https://drive.google.com/uc?export=view&id=1KAX5f0Rfbxp9STpy7pbYD9xnCsnECEK1",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
